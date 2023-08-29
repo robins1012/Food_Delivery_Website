@@ -1,0 +1,28 @@
+.about_content {
+    margin-top: 50px;
+    color: palevioletred;
+    text-align: center;
+}
+
+.about {
+    background-color: rgb(83, 83, 111);
+    width: 480px;
+    padding: 12px;
+    margin: 3% auto 6% auto;
+    border-radius: 10px;
+    height: 500px;
+    padding-top: 50px;
+    color: white;
+}
+
+.about_row {
+    height: 50px;
+}
+
+.about_row>th {
+    width: 60%;
+}
+
+.about_head {
+    padding: 0px 50px 0 0;
+}

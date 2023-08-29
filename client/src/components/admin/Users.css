@@ -1,0 +1,11 @@
+.user {
+    width: 80%;
+    margin: 5% auto 5%;
+}
+
+.userHeading {
+    margin-top: 60px;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}

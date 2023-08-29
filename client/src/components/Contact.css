@@ -1,0 +1,27 @@
+.contactus {
+    margin-bottom: 10%;
+    margin-top: 65px;
+}
+
+.section {
+    background-color: rgb(83, 83, 111);
+    height: 500px;
+    color: white;
+    padding: 50px 10px;
+}
+
+.pt_80 {
+    padding-top: 80px;
+}
+
+.detail {
+    margin-bottom: 80px;
+}
+
+.a {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.textField {
+    width: 250px;
+}
